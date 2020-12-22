@@ -47,9 +47,6 @@ function solve(input) {
     }
     console.log(counter);
    
-   
-
-
 }
 
 solve(["2.73"]);
